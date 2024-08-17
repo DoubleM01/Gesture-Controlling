@@ -1,4 +1,6 @@
 # Gesture-Controlling
+## Updates
+[17th Aug, 2024 --> Volume control added](volumeControl_Gesture.py)
 
 This repository contains a simple implementation of gesture control using MediaPipe's pose estimation. The script captures video from a webcam, processes the frames to detect human pose landmarks, and visualizes the pose landmarks in real-time. 
 The outout data will be used to differnt types of controlling  
