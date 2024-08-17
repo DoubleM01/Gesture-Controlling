@@ -30,7 +30,10 @@ pip install mediapipe opencv-python
 ```
 python gesture_controlling.py #Comming soon
 ```
-
+### Volume Controlling
+```
+python volumeControl_Gesture.py
+```
 ### Keypoints preview on camera 
 for default camera **0**
 ```
