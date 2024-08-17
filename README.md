@@ -41,8 +41,11 @@ python keypoints_preview.py
 ```
 ## mediapipe keypoints meaning:
 
-
+### Pose keys
 ![mediapipe_keys](https://github.com/user-attachments/assets/d25685a9-d7e5-4fbd-96c8-0d68c80d1b5b)
+
+### Hand keys
+![mediapipe hand keys](https://mediapipe.dev/images/mobile/hand_landmarks.png)
 
 ## **Samples and Test**
 **Cooming Soon**
